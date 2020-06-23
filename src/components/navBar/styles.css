@@ -1,0 +1,9 @@
+.navbar{
+   border-bottom: #D950D3 2px solid;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #FFF !important;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    font-weight: bold;
+}
